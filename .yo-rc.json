@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "ALM",
+    "repo": "mmrao12/APIHUB",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
